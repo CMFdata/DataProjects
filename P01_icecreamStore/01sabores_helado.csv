@@ -1,0 +1,46 @@
+id_gusto,nombre_gusto,descripcion_gusto,puntuacion,conteo_puntuacion,ingredientes
+LF1,Almendrado crocante,Helado cremoso con almendras caramelizadas que aportan un toque crujiente,4,6,173,leche,crema,almendras,azúcar
+LF2,Crema del cielo,Helado de color celeste con un sabor dulce y suave,similar a la vainilla,4,5,243,leche,crema,azúcar,esencia de vainilla,colorante azul
+LF3,Crema rusa,Una mezcla suave con nueces y dulce de leche para un sabor elegante,4,1,11,crema,leche,azúcar,nueces,dulce de leche
+LF4,Chantilly,Sabor ligero y aireado,inspirado en la clásica crema Chantilly,4,7,73,crema de leche,azúcar,esencia de vainilla
+LF4,Chantilly,Sabor ligero y aireado,inspirado en la clásica crema Chantilly,4,7,73,crema de leche,azúcar,esencia de vainilla
+LF5,Flan,Helado con el gusto clásico del flan con notas de caramelo,4,5,426,leche,crema,azúcar,vainilla,caramelo
+LF6,Granizado,Helado de crema con trocitos de chocolate,4,1,148,leche,crema,azúcar,chocolate rallado
+LF7,Mantecol,Inspirado en el clásico postre argentino,con sabor a pasta de maní,3,4,256,leche,crema,pasta de maní,azúcar
+LF8,Marroc,Helado con el sabor inconfundible del chocolate con mantequilla de maní,4,9,429,chocolate,pasta de maní,crema,leche,azúcar
+LF9,Oreo,Helado de crema con trozos de galleta Oreo,3,330,leche,crema,azúcar,galletas Oreo trituradas
+LF10,Tiramisú,Inspirado en el famoso postre italiano con café y cacao,4,3,227,mascarpone,café,cacao,azúcar,crema,vainillas
+LF11,Tramontana,Helado de vainilla con trozos de dulce de leche y galletitas,3,4,221,leche,crema,azúcar,vainilla,dulce de leche,galletitas
+LF12,Vainilla,Clásico y suave sabor a vainilla,4,5,292,leche,crema,azúcar,esencia de vainilla
+LF13,Pistacho,Cremoso y con el sabor característico de los pistachos,3,370,leche,crema,azúcar,pistachos molidos
+LF14,Chocolate blanco con pistacho,Mezcla de chocolate blanco con trozos de pistacho,3,5,67,chocolate blanco,pistacho,leche,crema,azúcar
+LF15,Bon o bon,Inspirado en los bombones,con chocolate y relleno de crema de maní,4,3,40,chocolate,pasta de maní,leche,crema,azúcar
+LF16,Chocolate,Helado clásico de chocolate con sabor intenso,3,8,453,leche,crema,cacao,azúcar
+LF17,Chocolate amargo,Variante con un toque más intenso de cacao,4,5,264,leche,crema,cacao amargo,azúcar
+LF18,Chocolate blanco,Cremoso y dulce,con la suavidad del chocolate blanco,3,3,447,leche,crema,chocolate blanco,azúcar
+LF19,Chocolate kinder,Sabor inspirado en el famoso chocolate con leche Kinder,3,1,492,chocolate con leche,crema,leche,azúcar
+LF20,Chocolate Luigi,Versión especial con mezcla de chocolates y avellanas,4,2,479,chocolate con leche,avellanas,leche,crema,azúcar
+LF21,Chocolate suizo,Chocolate refinado con un sabor suave y cremoso,3,5,375,chocolate con leche,leche,crema,azúcar
+LF21,Chocolate suizo,Chocolate refinado con un sabor suave y cremoso,3,5,375,chocolate con leche,leche,crema,azúcar
+LF22,Chocolate rocher,Helado inspirado en los bombones Ferrero Rocher,4,3,218,chocolate con leche,avellanas,crema,leche,azúcar
+LF23,Chocotorta,Mezcla de chocolate con galletas y dulce de leche,como el postre argentino,4,8,305,chocolate,galletitas chocolinas,dulce de leche,crema,leche
+LF24,Dulce de leche,Cremoso y con el sabor clásico argentino,3,5,437,leche,crema,dulce de leche,azúcar
+LF25,DDL con nuez,Dulce de leche combinado con trozos de nuez,3,220,dulce de leche,nueces,leche,crema
+LF26,DDL granizado,Dulce de leche con pequeños trozos de chocolate,3,8,239,dulce de leche,chocolate rallado,leche,crema
+LF27,DDL Luigi bombón,Helado con dulce de leche y trozos de bombón,4,7,66,dulce de leche,bombones de chocolate,leche,crema
+LF28,DDL tentación,Versión más dulce y cremosa con extra de dulce de leche,3,298,dulce de leche,crema,leche,azúcar
+LF29,DDL brownie,Mezcla de dulce de leche con trozos de brownie,3,2,74,dulce de leche,brownie troceado,crema,leche
+LF30,Ananá (al agua),Refrescante y con sabor tropical,4,3,134,ananá,agua,azúcar
+LF31,Banana split,Mezcla de banana con crema y chocolate,4,1,256,banana,leche,crema,chocolate rallado
+LF32,Banana con dulce de leche,Combinación dulce y cremosa,4,7,204,banana,dulce de leche,leche,crema
+LF33,Cereza,Helado frutal con el sabor intenso de la cereza,4,9,398,cerezas,leche,crema,azúcar
+LF34,Coco con dulce de leche,Mezcla cremosa con coco rallado,3,4,323,coco rallado,dulce de leche,leche,crema
+LF35,Frutilla (al agua),Ligero y refrescante con frutillas naturales,3,6,347,frutilla,agua,azúcar
+LF36,Frutilla crema,Más cremoso que la versión al agua,4,6,79,frutilla,leche,crema,azúcar
+LF36,Frutilla crema,Más cremoso que la versión al agua,4,6,79,frutilla,leche,crema,azúcar
+LF37,Frutilla granizada,Frutilla con trozos de chocolate,4,254,frutilla,chocolate rallado,leche,crema
+LF38,Frutos del bosque,Mezcla de varias frutas rojas,4,5,344,frutilla,mora,arándanos,agua,azúcar
+LF39,Kinoto al whisky,Kinotos caramelizados con un toque de whisky,4,182,kinotos,whisky,azúcar,agua
+LF40,Limón (al agua),Refrescante y ácido,4,9,255,jugo de limón,agua,azúcar
+LF41,Menta granizada,Helado de menta con trozos de chocolate,4,6,124,menta,chocolate rallado,leche,crema
+LF42,Franui (al agua),Helado de frutos rojos con la esencia del famoso postre,4,8,302,frambuesa,mora,agua,azúcar

@@ -1,4 +1,4 @@
-# Proyecto "Canasta de compras"
+# Proyecto "Market Basket"
 Este repositorio se explica completamente en el siguiente notebook:
 
 👉 [Abrir notebook](./index_notebook.ipynb)
